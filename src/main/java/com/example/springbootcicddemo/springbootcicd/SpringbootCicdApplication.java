@@ -16,7 +16,7 @@ public class SpringbootCicdApplication {
 
     @GetMapping("/hi")
     public String hi() {
-        return "Java Springboot CICD Demo Created Sucessfully!";
+        return "Javas Springboot CICD Demo Created Sucessfully!";
     }
 
 }
